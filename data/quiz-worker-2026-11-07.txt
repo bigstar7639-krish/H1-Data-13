@@ -22,3 +22,6 @@ A: Wensleydale - Entertainment: Film
 Auto Quiz - Earth 🧠
 Q: Only 9% of US Households owned a television in 
 A: 1950 - General Knowledge
+Auto Quiz - Water 🧠
+Q: In flight systems, what does the initialism "TCAS" stand for?
+A: Traffic Collision Avoidance System - General Knowledge
