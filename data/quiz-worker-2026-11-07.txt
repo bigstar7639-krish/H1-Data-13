@@ -76,3 +76,6 @@ A: 4/4 - Entertainment: Music
 Auto Quiz - Horse 🧠
 Q: What is the area of Vatican City?
 A: 0.44km^2 - Geography
+Auto Quiz - Bike 🧠
+Q: How old is the universe?
+A: 13.8 Billion Years - Science & Nature
