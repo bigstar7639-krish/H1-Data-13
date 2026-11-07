@@ -43,3 +43,6 @@ A: Region 3 - Science: Computers
 Auto Quiz - Chocolate 🧠
 Q: Greenland is a part of which kingdom?
 A: Denmark - Geography
+Auto Quiz - Fruit 🧠
+Q: Which nation hosted the FIFA World Cup in 2006?
+A: Germany - Sports
