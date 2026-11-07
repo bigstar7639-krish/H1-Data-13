@@ -73,3 +73,6 @@ A: Major Malfunction - Entertainment: Video Games
 Auto Quiz - Lion 🧠
 Q: What's the most common time signature for rock songs?
 A: 4/4 - Entertainment: Music
+Auto Quiz - Horse 🧠
+Q: What is the area of Vatican City?
+A: 0.44km^2 - Geography
