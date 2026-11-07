@@ -115,3 +115,6 @@ A: 15 - Entertainment: Video Games
 Auto Quiz - Poetry 🧠
 Q: Which band released songs suchs as "Rio", "Girls on Film", and "The Reflex"?
 A: Duran Duran - Entertainment: Music
+Auto Quiz - Dancing 🧠
+Q: Which game in the Dance Dance Revolution series introduced the Extra Stage?
+A: DDR - Entertainment: Video Games
