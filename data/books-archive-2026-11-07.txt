@@ -81,3 +81,4 @@ Joke - isbn_9781512362343 - the Ultimate Hillary Clinton Joke Book
 Reading - bwb_W9-CWZ-772 - The Junior Great Books Reading and Discussion Program
 Reading - bwb_Y0-DTB-477 - Junior Great Books A Program of Interpretive Reading and Discussion
 Writing - bwb_S0-CWF-509 - A HISTORY OF HISTORICAL WRITING
+Writing - bwb_S0-BQI-555_1 - A history of historical writing
