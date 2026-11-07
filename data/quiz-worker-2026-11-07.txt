@@ -79,3 +79,6 @@ A: 0.44km^2 - Geography
 Auto Quiz - Bike 🧠
 Q: How old is the universe?
 A: 13.8 Billion Years - Science & Nature
+Auto Quiz - Car 🧠
+Q: In 2012, which movie won every category in the 32nd "Golden Raspberry Awards"?
+A: Jack and Jill - Entertainment: Film
