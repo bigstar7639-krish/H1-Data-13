@@ -356,3 +356,4 @@ Coding Q 5763 - Website eppadi pannurathu?
 Aira: Website - HTML + CSS + JS!
 Story 5764
 Oru chinna village la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Recipe 5765 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
