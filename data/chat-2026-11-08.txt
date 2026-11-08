@@ -306,3 +306,5 @@ Oru forest la oru singer irunthan! Daily travel pannan pannan! Oru naal magic ke
 Coding Q 5734 - Bug ah eppadi sari pannanum?
 Aira: Bug - Log paaru!
 Q 5735 - Ne Health la eppadi improve panna mudiyum?
+Emotion Q 5736 - angry?
+Aira: Kovam ah? Deep breath edu!
