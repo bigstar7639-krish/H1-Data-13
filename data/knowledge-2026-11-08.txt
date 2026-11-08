@@ -667,3 +667,4 @@ A: Delirium - Entertainment: Video Games
 Knowledge Quiz
 Q: At the end of the 2001 film "Rat Race", whose concert do the contestants crash?
 A: Smash Mouth - Entertainment: Film
+Knowledge 6090 - Python - Python loop: `for i in range(5): print(i)`
