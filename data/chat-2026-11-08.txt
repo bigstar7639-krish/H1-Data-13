@@ -756,3 +756,5 @@ Knowledge 5987 - Mumbai - **Hey buddy! 😊**
 Talk 5988 - Computer pathi pesalama? Sollu!
 Smart Q 5989 - Courage la eppadi jeyikkarathu?
 Reading 5990 - Ponniyin Selvan - Kalki!
+Emotion Q 5991 - sad?
+Aira: Paravalla! Aira irukka - Pesu!
