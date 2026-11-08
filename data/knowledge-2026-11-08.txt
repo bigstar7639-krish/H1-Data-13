@@ -269,3 +269,6 @@ A: 20,000 - Entertainment: Video Games
 Knowledge Quiz
 Q: Which of the following is NOT classified as a Semetic language?
 A: Sumerian - History
+Knowledge Quiz
+Q: In the video game, Half-life, what event started the Half-life universe as we know today?
+A: The Resonance Cascade - Entertainment: Video Games
