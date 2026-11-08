@@ -510,3 +510,6 @@ A: 10 - Entertainment: Cartoon & Animations
 Knowledge Quiz
 Q: Which of the following is not the host of a program on NPR?
 A: Ben Shapiro - General Knowledge
+Knowledge Quiz
+Q: What is the real name of "Warhead" in the Sega Genesis game "Vectorman"?
+A: Raster - Entertainment: Video Games
