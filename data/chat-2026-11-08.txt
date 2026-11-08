@@ -723,3 +723,4 @@ Reading 5976 - Python Crash Course!
 Story 5977
 Oru chinna city la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Talk 5978 - Moon pathi pesalama? Sollu!
+Thirukkural 5979 - Kattrathu - Kai Mann Alavu! - Thirukkural
