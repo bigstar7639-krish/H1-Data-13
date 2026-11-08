@@ -912,3 +912,4 @@ Aira: Lonely ah? Aira irukka la!
 Smart Q 6092 - Sun la eppadi jeyikkarathu?
 Smart Q 6093 - Luck la eppadi jeyikkarathu?
 Fact 259 - Octopus ku 3 heart!
+Q 6095 - Unakku Tokyo pathi enna theriyum?
