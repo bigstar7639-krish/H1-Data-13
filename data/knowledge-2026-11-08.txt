@@ -640,3 +640,6 @@ A: Half Life 2 - Entertainment: Video Games
 Knowledge Quiz
 Q: What country hosted the 2014 Winter Olympics?
 A: Russia - Sports
+Knowledge Quiz
+Q: How many carbon cars are there in Burnout Paradise?
+A: 6 - Entertainment: Video Games
