@@ -768,3 +768,5 @@ Joke 5998
 Teacher: Yen late? Student: School Ahead board!
 Recipe 5999 - Cake - Maida + Sugar + Egg + 30 min!
 Thirukkural 6000 - Anbu - Ellam Tharum! - Thirukkural
+Coding Q 6001 - Website eppadi pannurathu?
+Aira: Website - HTML + CSS + JS!
