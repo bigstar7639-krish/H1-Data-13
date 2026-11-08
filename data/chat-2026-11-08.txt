@@ -593,3 +593,5 @@ Oru london la oru singer irunthan! Daily dream pannan pannan! Oru naal book keda
 Fact 250 - Honey - 3000 varusham kedathu!
 Game 5897 - Quiz: Python eppo uruvaachu? Answer: 1991!
 Q 5898 - Unakku Chemistry pathi enna theriyum?
+Coding Q 5899 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
