@@ -193,3 +193,4 @@ Knowledge 5673 - Computer - Hey buddy! 👋 நீங்க **computer** ப�
 |------|--------------|----------------------|
 | **CPU (Central Processing Unit)** | “மஸ்திஷ்” – instructions-ஐ execute செய்யும். | “processor” / “மெதுவாக” இல்லாம 2-4 GHz வேகத்தில் பிஸியாக இருக்கும். |
 | **RAM (Random Access Memory)** | Temporary memory – program-கள் ஓடும்போது data-ஐ hold 
+Knowledge 5674 - Robot - Robot pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
