@@ -825,3 +825,4 @@ Knowledge 6031 - Peace - Peace pathi sollu - Nalla question! Daily try pannu - J
 Emotion Q 6032 - love?
 Aira: Kadhal - Azhagu!
 Smart Q 6033 - Truth la eppadi jeyikkarathu?
+Talk 6034 - Culture pathi pesalama? Sollu!
