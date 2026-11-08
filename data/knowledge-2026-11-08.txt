@@ -148,3 +148,17 @@ A: Badminton - Sports
 Knowledge Quiz
 Q: In Greek mythology, who is the god of wine?
 A: Dionysus - Mythology
+Knowledge 5673 - Computer - Hey buddy! 👋 நீங்க **computer** பற்றி தெரிஞ்சுக்கப் போகிறீங்கலே? Let’s dive in—இங்க “சுல்லா” style-யா, Tamil‑Tanglish mix-ஆற் சொல்லறேன்.  
+
+---
+
+## 1️⃣ Computer என்ன?  
+- **Computer** = ஒரு electronic device, data-ஐ **process** செய்யும், store‑செய்யும், retrieve‑செய்யும், மற்றும் **output**‑களாக (screen, printer, speakers) காட்டும்.  
+- அடிப்படையாக, **input → processing → output** இந்த 3 steps-ல் தான் வேலை செய்கிறது.  
+
+## 2️⃣ முக்கியமான பகுதிகள் (Hardware)
+
+| Part | What it does | Tamil/Tanglish notes |
+|------|--------------|----------------------|
+| **CPU (Central Processing Unit)** | “மஸ்திஷ்” – instructions-ஐ execute செய்யும். | “processor” / “மெதுவாக” இல்லாம 2-4 GHz வேகத்தில் பிஸியாக இருக்கும். |
+| **RAM (Random Access Memory)** | Temporary memory – program-கள் ஓடும்போது data-ஐ hold 
