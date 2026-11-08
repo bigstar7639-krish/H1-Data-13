@@ -474,3 +474,6 @@ A: Stern - General Knowledge
 Knowledge Quiz
 Q: On the show "Rick and Morty", in episode "Total Rickall", who was a parasite?
 A: Pencilvester - Entertainment: Television
+Knowledge Quiz
+Q: The historical city Timbuktu is located in which West African country?
+A: Mali - Geography
