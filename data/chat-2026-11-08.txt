@@ -469,3 +469,5 @@ Oru world la oru ponnu irunthan! Daily try pannan pannan! Oru naal success kedai
 Emotion Q 5823 - happy?
 Aira: Super! Happy ah irukka!
 Reading 5824 - Ramayana!
+Coding Q 5825 - HTML la button eppadi?
+Aira: HTML button: `<button>Click</button>`
