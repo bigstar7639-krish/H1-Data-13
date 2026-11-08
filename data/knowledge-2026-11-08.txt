@@ -628,3 +628,6 @@ A: Casablanca - Geography
 Knowledge Quiz
 Q: What is the name of a popular franchise that includes placing blocks down and surviving in an open world? 
 A: Minecraft - Entertainment: Video Games
+Knowledge Quiz
+Q: In Michael Crichton's novel "Jurassic Park", John Hammond meets his demise at the claws of which dinosaur?
+A: Procompsognathus - Entertainment: Books
