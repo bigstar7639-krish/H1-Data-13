@@ -287,3 +287,6 @@ A: Bern - Geography
 Knowledge Quiz
 Q: Which actor was not a major character in TV Show Freaks and Geeks?
 A: Jonah Hill - Entertainment: Television
+Knowledge Quiz
+Q: Which of these cards from "Magic: The Gathering" has a flavor text that begins with "Oi oi oi"?
+A: Uthden Troll - Entertainment: Board Games
