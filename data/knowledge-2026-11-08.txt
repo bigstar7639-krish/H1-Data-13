@@ -577,3 +577,19 @@ Knowledge 5987 - Mumbai - **Hey buddy! 😊**
 |------------|-------------------|
 | **Gateway of India** | British‑colonial era arch, Taj‑Mahal‑style vibe, ferry rides to Elephanta Island. |
 | *
+Knowledge 6015 - Economics - Hey buddy! Economics‑oda basics‑a **Tamil‑Tanglish**‑ல சொல்லுறேன், so you’ll get the main ideas in a mix of our native and some English words – easy to understand and fun!  
+
+---
+
+## 1. Economics என்பது என்ன?  
+**Economics** = “நிதி, வளங்கள் (resources) எப்படிப் பயன்படுத்தி மக்களின் வாழ்க்கைத் தரத்தை (welfare) உயர்த்தலாம்” என்பதின் ஆய்வு.  
+- **Microeconomics** – ஒரு தனி குடும்பம், நிறுவனம், சந்தை (market) எப்படிப் பாவனை செய்கிறது, விலை (price) எப்படி தீர்மானிக்கப்படுகிறது.  
+- **Macroeconomics** – நாடு முழுவதும் உள்ள பெரிய விஷயங்கள் – GDP, inflation, unemployment, fiscal‑policy, monetary‑policy.  
+
+---
+
+## 2. முக்கியக் கருத்துகள் (Key Concepts)
+
+| Concept | What it means (Tamil‑Tanglish) | Example |
+|---------|------------------------------|---------|
+| **Demand & Supply** | மக்கள் (consu
