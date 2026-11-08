@@ -867,3 +867,4 @@ Vocab 6067 - Love = Kadhal
 Movie 6068 - Ponniyin Selvan - Kalki!
 Thirukkural 6069 - Anbu - Ellam Tharum! - Thirukkural
 Business Idea 6070 - YouTube - Daily 1 Shorts - 6 Maatham - Money!
+Game 6071 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
