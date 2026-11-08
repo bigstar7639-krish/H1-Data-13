@@ -257,3 +257,6 @@ A: Roxas - Entertainment: Video Games
 Knowledge Quiz
 Q: Where is Fort Marlborough located?
 A: Bengkulu - Geography
+Knowledge Quiz
+Q: How many wheels does a unicycle have?
+A: 1 - Vehicles
