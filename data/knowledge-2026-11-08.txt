@@ -281,3 +281,6 @@ A: Rufus - Entertainment: Video Games
 Knowledge Quiz
 Q: In the popular MOBA League of Legends, which of the following champions is nicknamed "the Virtuoso"?
 A: Jhin - Entertainment: Video Games
+Knowledge Quiz
+Q: Which city is the capital of Switzerland?
+A: Bern - Geography
