@@ -906,3 +906,4 @@ Pazhamozhi 6086 - Sontha Kaal la Ninnu - Jeyippa!
 Pazhamozhi 6087 - Porumai - Perumai Tharum!
 Kavithai 6088 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
 Vocab 6089 - Peace = Amaithi
+Knowledge 6090 - Python - Python loop: `for i in range(5): print(i)`
