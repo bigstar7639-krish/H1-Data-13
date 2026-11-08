@@ -386,3 +386,5 @@ Game 5779 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
 Thirukkural 5780 - Anbu - Ellam Tharum! - Thirukkural
 Coding Q 5781 - App eppadi pannurathu?
 Aira: App - Idea - Design - Code!
+Coding Q 5782 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
