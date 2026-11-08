@@ -211,3 +211,6 @@ A: Odin - Mythology
 Knowledge Quiz
 Q: By which name is Ramon Estevez better known as?
 A: Martin Sheen - Celebrities
+Knowledge Quiz
+Q: Which popular First Person Shooter (FPS) franchise, got a Real Time Strategy (RTS) game developed based on its universe?
+A: Halo - Entertainment: Video Games
