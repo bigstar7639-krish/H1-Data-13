@@ -97,3 +97,6 @@ A: Oscar - Entertainment: Television
 Knowledge Quiz
 Q: In the game "Overwatch," which quote does the hero "McCree" NOT say upon using his flashbang ability?
 A: "You done?" - Entertainment: Video Games
+Knowledge Quiz
+Q: Who directed "E.T. the Extra-Terrestrial" (1982)?
+A: Steven Spielberg - Entertainment: Film
