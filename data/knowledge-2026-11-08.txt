@@ -501,3 +501,6 @@ A: Sword Art Online - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: When was "Luigi's Mansion 3" released?
 A: October 31st, 2019 - Entertainment: Video Games
+Knowledge Quiz
+Q: What does the DOS in Microsoft's first operating system "MS-DOS" stand for?
+A: Disk Operating System - Science: Computers
