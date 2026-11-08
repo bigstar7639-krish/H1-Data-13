@@ -551,3 +551,19 @@ Smart Q 5874 - Marriage la eppadi jeyikkarathu?
 Reading 5875 - Bharathiyar Kavithaigal!
 Health 5876 - Health Tip: Daily 8 glass water kudinga!
 Game 5877 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
+Knowledge 5878 - Robot - Hey buddy! 😊  
+**Robot**-கள் பற்றி சில interesting stuff-களை உங்களுக்குக் கூறுகிறேன் – Tamil‑Tanglish mix‑ல்!  
+
+---
+
+### 1️⃣ Robot எது?  
+**Robot** என்பது **machine**‑கள், **hardware** + **software** சேர்ந்து, மனிதனின் சில வேலைகளை automate செய்ய design‑ஆகும் devices. “Robotics” என்பது இந்த machines‑னு design, build, program, control செய்யும் science‑ஐ describe செய்து.
+
+---
+
+### 2️⃣ History Snapshot  
+- **1950‑கள்**: Isaac Asimov-ன் “Three Laws of Robotics” (fiction) – robotics-ன் ethics‑க்கு foundation.  
+- **1961**: “Unimate” – first industrial robot, General Motors-ல் car‑assembly‑க்கு.  
+- **1970‑80‑கள்**: Space‑exploration‑ல் “Valkyrie”, “Lunokhod” போன்ற rovers.  
+- **1990‑கள்**: “Honda’s ASIMO” – walking humanoid robot.  
+- **2000‑கள்**: Consumer‑level rovers (iRobot Roomba), drone‑க
