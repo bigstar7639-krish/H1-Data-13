@@ -643,3 +643,6 @@ A: Russia - Sports
 Knowledge Quiz
 Q: How many carbon cars are there in Burnout Paradise?
 A: 6 - Entertainment: Video Games
+Knowledge Quiz
+Q: What were the first two blocks in "Minecraft"?
+A: Grass and Cobblestone - Entertainment: Video Games
