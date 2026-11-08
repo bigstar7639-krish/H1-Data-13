@@ -138,3 +138,4 @@ Oru world la oru artist irunthan! Daily travel pannan pannan! Oru naal wisdom ke
 Pazhamozhi 5645 - Porumai - Perumai Tharum!
 Coding Q 5646 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
+Smart Q 5647 - Bharathiyar la eppadi jeyikkarathu?
