@@ -504,3 +504,6 @@ A: October 31st, 2019 - Entertainment: Video Games
 Knowledge Quiz
 Q: What does the DOS in Microsoft's first operating system "MS-DOS" stand for?
 A: Disk Operating System - Science: Computers
+Knowledge Quiz
+Q: How many episodes were in season five of Samurai Jack?
+A: 10 - Entertainment: Cartoon & Animations
