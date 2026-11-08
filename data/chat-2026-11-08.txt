@@ -133,3 +133,5 @@ Coding Q 5641 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Quote 5642 - Daily try pannu - Jeyichiduva! - Aira
 Thirukkural 5643 - Kattrathu - Kai Mann Alavu! - Thirukkural
+Story 5644
+Oru world la oru artist irunthan! Daily travel pannan pannan! Oru naal wisdom kedaichuchu! Life maariduchu!
