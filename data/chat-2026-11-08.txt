@@ -911,3 +911,4 @@ Emotion Q 6091 - lonely?
 Aira: Lonely ah? Aira irukka la!
 Smart Q 6092 - Sun la eppadi jeyikkarathu?
 Smart Q 6093 - Luck la eppadi jeyikkarathu?
+Fact 259 - Octopus ku 3 heart!
