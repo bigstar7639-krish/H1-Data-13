@@ -658,3 +658,6 @@ A: Loki - Mythology
 Knowledge Quiz
 Q: Who is the lead singer of the Smashing Pumpkins?
 A: Billy Corgan - Entertainment: Music
+Knowledge Quiz
+Q: In "Call Of Duty: Zombies", what is the name of Samantha Maxis' dog?
+A: Fluffy - Entertainment: Video Games
