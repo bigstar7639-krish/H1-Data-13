@@ -453,3 +453,6 @@ Knowledge 5878 - Robot - Hey buddy! 😊
 - **1970‑80‑கள்**: Space‑exploration‑ல் “Valkyrie”, “Lunokhod” போன்ற rovers.  
 - **1990‑கள்**: “Honda’s ASIMO” – walking humanoid robot.  
 - **2000‑கள்**: Consumer‑level rovers (iRobot Roomba), drone‑க
+Knowledge Quiz
+Q: Who wrote the Batman comic series "The Killing Joke"?
+A: Alan Moore - Entertainment: Comics
