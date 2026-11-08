@@ -489,3 +489,6 @@ A: France and Spain - Geography
 Knowledge Quiz
 Q: What was the name of the police officer in the cartoon "Top Cat"?
 A: Dibble - Entertainment: Television
+Knowledge Quiz
+Q: In Rudyard Kipling's "The Jungle Book", what type of snake was Kaa?
+A: Python - Entertainment: Books
