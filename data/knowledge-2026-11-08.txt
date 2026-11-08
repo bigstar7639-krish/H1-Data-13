@@ -528,3 +528,6 @@ A: Leni - Entertainment: Cartoon & Animations
 Knowledge Quiz
 Q: In the movie "Blade Runner", what is the term used for human-like androids ?
 A: Replicants - Entertainment: Film
+Knowledge Quiz
+Q: In "Call of Duty: Zombies", what group does Doctor Maxis work for?
+A: Group 935 - Entertainment: Video Games
