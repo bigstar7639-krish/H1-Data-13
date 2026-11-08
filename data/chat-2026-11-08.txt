@@ -196,3 +196,5 @@ Knowledge 5673 - Computer - Hey buddy! 👋 நீங்க **computer** ப�
 Knowledge 5674 - Robot - Robot pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Emotion Q 5675 - fear?
 Aira: Bayam - Normal! Ne jeyichiduva!
+Coding Q 5676 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
