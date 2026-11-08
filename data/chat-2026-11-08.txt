@@ -872,3 +872,5 @@ Smart Q 6072 - Teacher la eppadi jeyikkarathu?
 Coding Q 6073 - Bug ah eppadi sari pannanum?
 Aira: Bug - Log paaru!
 Fact 258 - Octopus ku 3 heart!
+Story 6075
+Oru chinna forest la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
