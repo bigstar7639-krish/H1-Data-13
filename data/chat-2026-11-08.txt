@@ -596,3 +596,5 @@ Q 5898 - Unakku Chemistry pathi enna theriyum?
 Coding Q 5899 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
 Fact 251 - Tamil - 2000+ varusha mozhi!
+Emotion Q 5901 - angry?
+Aira: Kovam ah? Deep breath edu!
