@@ -145,3 +145,6 @@ A: Lion - Geography
 Knowledge Quiz
 Q: In what sport is a "shuttlecock" used?
 A: Badminton - Sports
+Knowledge Quiz
+Q: In Greek mythology, who is the god of wine?
+A: Dionysus - Mythology
