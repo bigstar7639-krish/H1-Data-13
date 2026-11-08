@@ -376,3 +376,6 @@ A: 2 - Science: Mathematics
 Knowledge Quiz
 Q: Who is the main protagonist in the 'Ratchet and Clank' game series?
 A: Ratchet - Entertainment: Video Games
+Knowledge Quiz
+Q: In the "S.T.A.L.K.E.R." series, which of these items can't be used to lower the player's accumulated radiation?
+A: Radioprotectant - Entertainment: Video Games
