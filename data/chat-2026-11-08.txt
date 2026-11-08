@@ -143,3 +143,4 @@ Thirukkural 5648 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Q 5649 - Ne Football la eppadi improve panna mudiyum?
 Smart Q 5650 - Human Body la eppadi jeyikkarathu?
 Thirukkural 5651 - Anbu - Ellam Tharum! - Thirukkural
+Talk 5652 - Business pathi pesalama? Sollu!
