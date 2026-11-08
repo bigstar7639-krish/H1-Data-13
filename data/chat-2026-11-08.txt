@@ -112,3 +112,4 @@ Game 5624 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
 Smart Q 5625 - Diet la eppadi jeyikkarathu?
 Talk 5626 - Wisdom pathi pesalama? Sollu!
 Fact 243 - Honey - 3000 varusham kedathu!
+Quote 5628 - Daily try pannu - Jeyichiduva! - Aira
