@@ -899,3 +899,5 @@ Emotion Q 6082 - excited?
 Aira: Excited ah! Sollu!
 Motivation 6083
 Paravalla! Rest edu - Thirumba try pannu!
+Emotion Q 6084 - angry?
+Aira: Kovam ah? Deep breath edu!
