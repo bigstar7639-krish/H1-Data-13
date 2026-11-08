@@ -310,3 +310,5 @@ Emotion Q 5736 - angry?
 Aira: Kovam ah? Deep breath edu!
 Q 5737 - Unakku Time pathi enna theriyum?
 Quote 5738 - Daily try pannu - Jeyichiduva! - Aira
+Story 5739
+Oru chinna sea la - Oru ponnu dream pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
