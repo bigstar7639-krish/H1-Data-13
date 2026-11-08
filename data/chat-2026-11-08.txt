@@ -231,3 +231,4 @@ Knowledge 5696 - Family - Family pathi sollu - Nalla question! Daily try pannu -
 World Story 5697
 Oru chinna mountain la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Talk 5698 - Cat pathi pesalama? Sollu!
+Quote 5699 - Daily try pannu - Jeyichiduva! - Aira
