@@ -703,3 +703,6 @@ Knowledge 6110 - Animals - Hey friend! 🐾 Naan **Aira**, un‑friend‑kaa
 Knowledge Quiz
 Q: What African country has Portuguese as its official language?
 A: Mozambique - Geography
+Knowledge Quiz
+Q: Who won the 2018 Monaco Grand Prix?
+A: Daniel Ricciardo - Sports
