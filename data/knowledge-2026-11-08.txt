@@ -130,3 +130,6 @@ A: I am in great pain, please help me. - Entertainment: Cartoon & Animations
 Knowledge Quiz
 Q: What is the maximum HP in Terraria?
 A: 500 - Entertainment: Video Games
+Knowledge Quiz
+Q: Which of the following is NOT a word used to describe an earthquake?
+A: Drop-slide - Science & Nature
