@@ -227,3 +227,4 @@ Talk 5693 - World pathi pesalama? Sollu!
 Recipe 5694 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
 Story 5695
 Oru chennai la oru hero irunthan! Daily padichan pannan! Oru naal treasure kedaichuchu! Life maariduchu!
+Knowledge 5696 - Family - Family pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
