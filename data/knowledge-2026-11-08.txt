@@ -477,3 +477,6 @@ A: Pencilvester - Entertainment: Television
 Knowledge Quiz
 Q: The historical city Timbuktu is located in which West African country?
 A: Mali - Geography
+Knowledge Quiz
+Q: Which superhero is known for his super speed?
+A: Flash - Entertainment: Comics
