@@ -481,3 +481,5 @@ Knowledge 5831 - Power - Power pathi sollu - Nalla question! Daily try pannu - J
 Game 5832 - Dice - Ne Dice nu Sollu!
 Coding Q 5833 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
+Coding Q 5834 - React la component enna?
+Aira: React component - Chinna piece!
