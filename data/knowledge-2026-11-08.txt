@@ -547,3 +547,6 @@ The series spans **7 books** (and 8 movies, because the last book was split into
 Knowledge Quiz
 Q: Who scored the injury time winning goal in the 1999 UEFA Champions League final between Manchester United and Bayern Munich?
 A: Ole Gunnar Solskjær - Sports
+Knowledge Quiz
+Q: In Star Trek, what is the name of Spock's father?
+A: Sarek - Entertainment: Television
