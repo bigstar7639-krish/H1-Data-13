@@ -308,3 +308,6 @@ Knowledge 5788 - Pyramids - **Pyramids** – idhu **ancient marvels** of archite
 Knowledge Quiz
 Q: Along with Gabe Newell, who co-founded Valve?
 A: Mike Harrington - Entertainment: Video Games
+Knowledge Quiz
+Q: What was the name of the police officer in the cartoon "Top Cat"?
+A: Dibble - Entertainment: Television
