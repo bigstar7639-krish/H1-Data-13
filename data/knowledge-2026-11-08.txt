@@ -223,3 +223,6 @@ A: Anno 2070 - Entertainment: Video Games
 Knowledge Quiz
 Q: In the comics, which Sonic character took command of the Dark Legion after Luger's assassination?
 A: Lien-Da - Entertainment: Comics
+Knowledge Quiz
+Q: What is the official national language of Pakistan?
+A: Urdu - Geography
