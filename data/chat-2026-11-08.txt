@@ -725,3 +725,4 @@ Oru chinna city la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aa
 Talk 5978 - Moon pathi pesalama? Sollu!
 Thirukkural 5979 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Thirukkural 5980 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
+Smart Q 5981 - APJ Abdul Kalam la eppadi jeyikkarathu?
