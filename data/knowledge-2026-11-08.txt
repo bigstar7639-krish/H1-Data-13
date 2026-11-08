@@ -139,3 +139,6 @@ A: .svg - Science: Computers
 Knowledge Quiz
 Q: In what Half-Life expansion can you find Gordon's picture in an "Employee of the Month" picture frame?
 A: Half-Life: Opposing Force - Entertainment: Video Games
+Knowledge Quiz
+Q: The body of the Egyptian Sphinx was based on which animal?
+A: Lion - Geography
