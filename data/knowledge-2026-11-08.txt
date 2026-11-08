@@ -671,3 +671,6 @@ Knowledge 6090 - Python - Python loop: `for i in range(5): print(i)`
 Knowledge Quiz
 Q: From which country does the piano originate?
 A: Italy - Entertainment: Music
+Knowledge Quiz
+Q: The Hyundai Motor Company was founded in which country?
+A: South Korea - General Knowledge
