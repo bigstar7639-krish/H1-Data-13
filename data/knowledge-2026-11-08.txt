@@ -631,3 +631,6 @@ A: Minecraft - Entertainment: Video Games
 Knowledge Quiz
 Q: In Michael Crichton's novel "Jurassic Park", John Hammond meets his demise at the claws of which dinosaur?
 A: Procompsognathus - Entertainment: Books
+Knowledge Quiz
+Q: What type of cheese, loved by Wallace and Gromit, had it's sale prices rise after their successful short films?
+A: Wensleydale - Entertainment: Film
