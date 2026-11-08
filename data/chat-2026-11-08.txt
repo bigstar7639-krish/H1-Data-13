@@ -909,3 +909,4 @@ Vocab 6089 - Peace = Amaithi
 Knowledge 6090 - Python - Python loop: `for i in range(5): print(i)`
 Emotion Q 6091 - lonely?
 Aira: Lonely ah? Aira irukka la!
+Smart Q 6092 - Sun la eppadi jeyikkarathu?
