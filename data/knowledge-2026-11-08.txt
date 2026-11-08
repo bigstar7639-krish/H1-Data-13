@@ -266,3 +266,6 @@ A: Jhin - Entertainment: Video Games
 Knowledge Quiz
 Q: In the game "The Sims", how many Simoleons does each family start with?
 A: 20,000 - Entertainment: Video Games
+Knowledge Quiz
+Q: Which of the following is NOT classified as a Semetic language?
+A: Sumerian - History
