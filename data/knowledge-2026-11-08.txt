@@ -686,3 +686,6 @@ A: Wales - General Knowledge
 Knowledge Quiz
 Q: Which of these teams has Jaromir Jagr not played for?
 A: New York Islanders - Sports
+Knowledge Quiz
+Q: The Watergate Scandal occured in what year?
+A: 1972 - Politics
