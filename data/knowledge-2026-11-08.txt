@@ -61,3 +61,6 @@ A: Hannibal - History
 Knowledge Quiz
 Q: How many countries does Mexico border?
 A: 3 - Geography
+Knowledge Quiz
+Q: How many countries border Kyrgyzstan?
+A: 4 - Geography
