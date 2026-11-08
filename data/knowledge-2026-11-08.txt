@@ -495,3 +495,6 @@ A: Python - Entertainment: Books
 Knowledge Quiz
 Q: Who is the main character in the show "Burn Notice"?
 A: Michael Westen - Entertainment: Television
+Knowledge Quiz
+Q: Kirito and Asuna are main characters from which anime?
+A: Sword Art Online - Entertainment: Japanese Anime & Manga
