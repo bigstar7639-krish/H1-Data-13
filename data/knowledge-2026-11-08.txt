@@ -109,3 +109,6 @@ A: David Tennant - Entertainment: Television
 Knowledge Quiz
 Q: Where did first known lesbian rights organization in the United States, Daughters of Bilitis, start?
 A: San Francisco - History
+Knowledge Quiz
+Q: Who proved Fermat's Last Theorem?
+A: Andrew Wiles - Science: Mathematics
