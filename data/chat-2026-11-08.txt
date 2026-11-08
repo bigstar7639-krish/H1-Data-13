@@ -865,3 +865,4 @@ Fact 257 - Honey - 3000 varusham kedathu!
 Game 6066 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
 Vocab 6067 - Love = Kadhal
 Movie 6068 - Ponniyin Selvan - Kalki!
+Thirukkural 6069 - Anbu - Ellam Tharum! - Thirukkural
