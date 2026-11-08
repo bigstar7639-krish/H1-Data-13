@@ -415,3 +415,6 @@ A: Wake - Animals
 Knowledge Quiz
 Q: What is the most preferred image format used for logos in the Wikimedia database?
 A: .svg - Science: Computers
+Knowledge Quiz
+Q: What was the code name for the Allied invasion of Southern France on August 15th, 1944?
+A: Operation Dragoon - History
