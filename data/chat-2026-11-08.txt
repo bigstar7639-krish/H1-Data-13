@@ -344,3 +344,4 @@ Knowledge 5752 - Quran - Quran pathi sollu - Nalla question! Daily try pannu - J
 Smart Q 5753 - Singing la eppadi jeyikkarathu?
 Reading 5754 - Harry Potter!
 Smart Q 5755 - Diet la eppadi jeyikkarathu?
+Pazhamozhi 5756 - Sontha Kaal la Ninnu - Jeyippa!
