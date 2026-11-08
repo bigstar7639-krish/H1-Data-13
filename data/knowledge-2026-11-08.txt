@@ -85,3 +85,6 @@ A: 2008 - Entertainment: Music
 Knowledge Quiz
 Q: Which Super Mario video game when they introduce Bowser Jr. for the first time?
 A: Super Mario Sunshine - Entertainment: Video Games
+Knowledge Quiz
+Q: How many voice channels does the Super Nintendo Entertainment System support?
+A: 8 - Entertainment: Video Games
