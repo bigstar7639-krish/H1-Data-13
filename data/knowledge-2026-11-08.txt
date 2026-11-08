@@ -332,3 +332,6 @@ A: Piplup - Entertainment: Video Games
 Knowledge Quiz
 Q: Who is "James Rolfe" better known as?
 A: The Angry Video Game Nerd - Celebrities
+Knowledge Quiz
+Q: The catastrophic nuclear accident that occurred in Ukraine in 1986 occurred at which power plant?
+A: Chernobyl - History
