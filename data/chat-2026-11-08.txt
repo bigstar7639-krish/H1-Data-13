@@ -928,3 +928,4 @@ Vocab 6103 - Success = Vetri
 Joke 6104
 Why bike sad? Petrol illa!
 Reading 6105 - Think and Grow Rich!
+Reading 6106 - Python Crash Course!
