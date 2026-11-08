@@ -64,3 +64,6 @@ A: 3 - Geography
 Knowledge Quiz
 Q: How many countries border Kyrgyzstan?
 A: 4 - Geography
+Knowledge Quiz
+Q: What are the smallest blood vessels in the human body?
+A: Capillaries - Science & Nature
