@@ -284,3 +284,6 @@ A: Jhin - Entertainment: Video Games
 Knowledge Quiz
 Q: Which city is the capital of Switzerland?
 A: Bern - Geography
+Knowledge Quiz
+Q: Which actor was not a major character in TV Show Freaks and Geeks?
+A: Jonah Hill - Entertainment: Television
