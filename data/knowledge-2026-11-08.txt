@@ -625,3 +625,6 @@ A: The Channel Islands  - Geography
 Knowledge Quiz
 Q: Which is the largest city in Morocco?
 A: Casablanca - Geography
+Knowledge Quiz
+Q: What is the name of a popular franchise that includes placing blocks down and surviving in an open world? 
+A: Minecraft - Entertainment: Video Games
