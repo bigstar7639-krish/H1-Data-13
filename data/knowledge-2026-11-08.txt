@@ -360,3 +360,6 @@ A: TRS-80 - Science: Computers
 Knowledge Quiz
 Q: Who is the main protagonist of Dead Space?
 A: Isaac Clarke - Entertainment: Video Games
+Knowledge Quiz
+Q: What does LASER stand for?
+A: Light amplification by stimulated emission of radiation - Science & Nature
