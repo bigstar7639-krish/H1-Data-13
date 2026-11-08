@@ -100,3 +100,6 @@ A: "You done?" - Entertainment: Video Games
 Knowledge Quiz
 Q: Who directed "E.T. the Extra-Terrestrial" (1982)?
 A: Steven Spielberg - Entertainment: Film
+Knowledge Quiz
+Q: Which of these features was added in the 1994 game "Heretic" that the original "DOOM" could not add due to limitations?
+A: Looking up and down - Entertainment: Video Games
