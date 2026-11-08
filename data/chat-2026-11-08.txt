@@ -241,3 +241,5 @@ Teacher: Yen late? Student: School Ahead board!
 Emotion Q 5704 - fear?
 Aira: Bayam - Normal! Ne jeyichiduva!
 Health 5705 - Health Tip: Daily 8 glass water kudinga!
+Joke 5706
+Teacher: Yen late? Student: School Ahead board!
