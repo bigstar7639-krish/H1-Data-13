@@ -133,3 +133,6 @@ A: 500 - Entertainment: Video Games
 Knowledge Quiz
 Q: Which of the following is NOT a word used to describe an earthquake?
 A: Drop-slide - Science & Nature
+Knowledge Quiz
+Q: What is the most preferred image format used for logos in the Wikimedia database?
+A: .svg - Science: Computers
