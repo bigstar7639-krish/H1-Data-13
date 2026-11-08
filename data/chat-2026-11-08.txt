@@ -871,3 +871,4 @@ Game 6071 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
 Smart Q 6072 - Teacher la eppadi jeyikkarathu?
 Coding Q 6073 - Bug ah eppadi sari pannanum?
 Aira: Bug - Log paaru!
+Fact 258 - Octopus ku 3 heart!
