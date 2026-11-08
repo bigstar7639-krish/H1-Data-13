@@ -127,3 +127,6 @@ A: Saruman - Entertainment: Film
 Knowledge Quiz
 Q: In the TV show "Rick and Morty", Rick uses the catchphrase "Wubba Lubba Dub Dub", which means what in Birdperson?
 A: I am in great pain, please help me. - Entertainment: Cartoon & Animations
+Knowledge Quiz
+Q: What is the maximum HP in Terraria?
+A: 500 - Entertainment: Video Games
