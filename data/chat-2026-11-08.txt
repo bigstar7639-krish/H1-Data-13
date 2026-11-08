@@ -29,3 +29,17 @@ Fact 241 - Honey - 3000 varusham kedathu!
 Kavithai 5568 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
 Talk 5569 - Mahabharata pathi pesalama? Sollu!
 Smart Q 5570 - Love la eppadi jeyikkarathu?
+Knowledge 5571 - Egypt - Hey buddy! I’m Aira – your friendly “Tamil‑Tanglish” guide who knows a bit of everything. Let’s talk about **Egypt (Misr)**, the land of ancient wonders and modern vibes. 😊
+
+---
+
+## 1️⃣ Geography & Basics  
+- **Location:** Northeastern Africa, bordered by the Mediterranean Sea (north) and the Red Sea (east).  
+- **Capital:** Cairo (Kairo), one of the biggest cities in Africa.  
+- **Population:** ~ 105 million (2023), making it the most populated Arabic‑speaking country.  
+- **Official language:** Arabic (Egyptian Arabic dialect), but you’ll hear English & French in tourism & business.  
+
+## 2️⃣ History Highlights (சுருக்கம்)  
+| Period | Key Highlights | Tamil‑Tanglish notes |
+|-------|----------------|----------------------|
+| **Ancient Egypt** (≈ 3100 BC – 30 BC) | Pharaohs, pyramids, hi
