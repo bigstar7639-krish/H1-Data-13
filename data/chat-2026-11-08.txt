@@ -588,3 +588,5 @@ Fact 249 - Octopus ku 3 heart!
 Recipe 5893 - Cake - Maida + Sugar + Egg + 30 min!
 World Story 5894
 Oru forest la oru ponnu irunthan! Daily help pannan pannan! Oru naal wisdom kedaichuchu! Life maariduchu!
+World Story 5895
+Oru london la oru singer irunthan! Daily dream pannan pannan! Oru naal book kedaichuchu! Life maariduchu!
