@@ -480,3 +480,6 @@ A: Mali - Geography
 Knowledge Quiz
 Q: Which superhero is known for his super speed?
 A: Flash - Entertainment: Comics
+Knowledge Quiz
+Q: What minimum level in the Defence skill is needed to equip Dragon Armour in the MMO RuneScape?
+A: 60 - Entertainment: Video Games
