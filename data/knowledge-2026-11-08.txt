@@ -634,3 +634,6 @@ A: Procompsognathus - Entertainment: Books
 Knowledge Quiz
 Q: What type of cheese, loved by Wallace and Gromit, had it's sale prices rise after their successful short films?
 A: Wensleydale - Entertainment: Film
+Knowledge Quiz
+Q: In which game does a character say, "Sometimes, I dream about cheese"?
+A: Half Life 2 - Entertainment: Video Games
