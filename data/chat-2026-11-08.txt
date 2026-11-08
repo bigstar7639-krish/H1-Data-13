@@ -694,3 +694,4 @@ Oru chinna madurai la - Oru ponnu travel pannan pannitu iruntha! Yaarum nambala!
 Quote 5954 - Daily try pannu - Jeyichiduva! - Aira
 Emotion Q 5955 - excited?
 Aira: Excited ah! Sollu!
+Smart Q 5956 - Bored la eppadi jeyikkarathu?
