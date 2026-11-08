@@ -492,3 +492,6 @@ A: Dibble - Entertainment: Television
 Knowledge Quiz
 Q: In Rudyard Kipling's "The Jungle Book", what type of snake was Kaa?
 A: Python - Entertainment: Books
+Knowledge Quiz
+Q: Who is the main character in the show "Burn Notice"?
+A: Michael Westen - Entertainment: Television
