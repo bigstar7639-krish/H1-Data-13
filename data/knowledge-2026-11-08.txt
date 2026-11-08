@@ -67,3 +67,6 @@ A: 4 - Geography
 Knowledge Quiz
 Q: What are the smallest blood vessels in the human body?
 A: Capillaries - Science & Nature
+Knowledge Quiz
+Q: What is the lowest layer of the Earth's atmosphere named?
+A: Troposphere - Science & Nature
