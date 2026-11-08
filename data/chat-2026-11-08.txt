@@ -198,3 +198,4 @@ Emotion Q 5675 - fear?
 Aira: Bayam - Normal! Ne jeyichiduva!
 Coding Q 5676 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
+Q 5677 - Ne Study la eppadi improve panna mudiyum?
