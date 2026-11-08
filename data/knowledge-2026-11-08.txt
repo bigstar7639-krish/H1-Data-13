@@ -706,3 +706,6 @@ A: Mozambique - Geography
 Knowledge Quiz
 Q: Who won the 2018 Monaco Grand Prix?
 A: Daniel Ricciardo - Sports
+Knowledge Quiz
+Q: How many dots are on a single die?
+A: 21 - Entertainment: Board Games
