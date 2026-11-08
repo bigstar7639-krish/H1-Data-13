@@ -278,3 +278,6 @@ A: 92 - Science & Nature
 Knowledge Quiz
 Q: In the game "Red Dead Redemption", what is the name of John Marston's dog?
 A: Rufus - Entertainment: Video Games
+Knowledge Quiz
+Q: In the popular MOBA League of Legends, which of the following champions is nicknamed "the Virtuoso"?
+A: Jhin - Entertainment: Video Games
