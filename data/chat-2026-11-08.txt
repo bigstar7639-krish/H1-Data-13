@@ -581,3 +581,5 @@ Thirukkural 5887 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Coding Q 5888 - Bug ah eppadi sari pannanum?
 Aira: Bug - Log paaru!
 Quote 5889 - Daily try pannu - Jeyichiduva! - Aira
+World Story 5890
+Oru chinna world la - Oru ponnu padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
