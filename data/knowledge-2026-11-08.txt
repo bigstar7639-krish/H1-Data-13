@@ -115,3 +115,6 @@ A: Andrew Wiles - Science: Mathematics
 Knowledge Quiz
 Q: Which of these is NOT a team available in the game Pokémon Go?
 A: Team Rocket - Entertainment: Video Games
+Knowledge Quiz
+Q: What European country is not a part of the EU?
+A: Norway - Geography
