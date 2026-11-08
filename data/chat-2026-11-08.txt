@@ -72,3 +72,4 @@ Health 5591 - Health Tip: Daily 30 min walk ponga!
 Game 5592 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Q 5593 - Computer pathi oru secret sollatta?
 Movie 5594 - Leo - Vijay - Action!
+Thirukkural 5595 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
