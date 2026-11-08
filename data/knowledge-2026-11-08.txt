@@ -661,3 +661,6 @@ A: Billy Corgan - Entertainment: Music
 Knowledge Quiz
 Q: In "Call Of Duty: Zombies", what is the name of Samantha Maxis' dog?
 A: Fluffy - Entertainment: Video Games
+Knowledge Quiz
+Q: In "The Binding of Isaac", what is the name of the final boss that you fight in The Void?
+A: Delirium - Entertainment: Video Games
