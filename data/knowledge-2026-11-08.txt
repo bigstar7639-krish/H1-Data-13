@@ -260,3 +260,6 @@ A: Bengkulu - Geography
 Knowledge Quiz
 Q: How many wheels does a unicycle have?
 A: 1 - Vehicles
+Knowledge Quiz
+Q: In the popular MOBA League of Legends, which of the following champions is nicknamed "the Virtuoso"?
+A: Jhin - Entertainment: Video Games
