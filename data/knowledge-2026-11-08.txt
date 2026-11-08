@@ -391,3 +391,18 @@ A: 1957 - General Knowledge
 Knowledge Quiz
 Q: Which element has the chemical symbol 'Fe'?
 A: Iron - Science & Nature
+Knowledge 5850 - Chemistry - Hey buddy! Chemistry‑இல் “matter‑ஐ” study பண்ணுறோம். எளிதாக சொல்றா, **atoms**, **molecules**, **ions** போன்றவை எப்படிப் பொருளை உருவாக்கும், அவை ஒருவருக்கொருவர் எப்படி interact பண்ணும் என்பதுதான் chemistry‑யின் core.
+
+---
+
+## 1️⃣ Basics – Atoms & Elements  
+- **Atom** = nucleus (protons + neutrons) + electrons.  
+- **Element** = ஒரே வகை atom-களின் collection. Periodic Table‑ல் 118+ elements உள்ளன (Hydrogen, Carbon, Gold, etc.).  
+- **Isotopes** = same element‑இன் atoms, but neutrons count different.
+
+## 2️⃣ Chemical Bonds  
+| Bond Type | How it forms | Example |
+|----------|--------------|---------|
+| **Ionic** | Electron transfer, opposite charges attract | NaCl (sodium chloride) |
+| **Covalent** | Electron sharing between non‑metals | H₂O, CO₂ |
+| **Metallic** | Sea of delocalized electro
