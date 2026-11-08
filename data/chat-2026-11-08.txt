@@ -471,3 +471,4 @@ Aira: Super! Happy ah irukka!
 Reading 5824 - Ramayana!
 Coding Q 5825 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
+Recipe 5826 - Snacks - Potato + Masala - Crispy!
