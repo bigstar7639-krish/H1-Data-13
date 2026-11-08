@@ -483,3 +483,5 @@ Coding Q 5833 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Coding Q 5834 - React la component enna?
 Aira: React component - Chinna piece!
+Story 5835
+Oru chinna delhi la - Oru ponnu travel pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
