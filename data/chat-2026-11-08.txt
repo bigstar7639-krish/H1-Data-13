@@ -824,3 +824,4 @@ Health 6030 - Health Tip: Daily 30 min walk ponga!
 Knowledge 6031 - Peace - Peace pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Emotion Q 6032 - love?
 Aira: Kadhal - Azhagu!
+Smart Q 6033 - Truth la eppadi jeyikkarathu?
