@@ -205,3 +205,6 @@ A: I Don't Want to Miss a Thing - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: May 16th of every year is known as __________ Day, named after a punk band prominent in the 1990s.
 A: Lagwagon - Entertainment: Music
+Knowledge Quiz
+Q: Which Norse God has a horse named Sleipnir?
+A: Odin - Mythology
