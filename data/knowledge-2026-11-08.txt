@@ -335,3 +335,6 @@ A: The Angry Video Game Nerd - Celebrities
 Knowledge Quiz
 Q: The catastrophic nuclear accident that occurred in Ukraine in 1986 occurred at which power plant?
 A: Chernobyl - History
+Knowledge Quiz
+Q: The longest shared border in the world can be found between which two nations?
+A: Canada and the United States - Geography
