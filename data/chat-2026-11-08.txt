@@ -774,3 +774,4 @@ Movie 6002 - Jailer - Rajini - Mass!
 Fact 254 - Tamil - 2000+ varusha mozhi!
 Game 6004 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Business Idea 6005 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
+Fact 255 - Octopus ku 3 heart!
