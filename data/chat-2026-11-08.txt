@@ -479,3 +479,5 @@ Smart Q 5829 - Sport la eppadi jeyikkarathu?
 Aira AI: Space pathi oru secret sollatta? - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Knowledge 5831 - Power - Power pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Game 5832 - Dice - Ne Dice nu Sollu!
+Coding Q 5833 - HTML la button eppadi?
+Aira: HTML button: `<button>Click</button>`
