@@ -653,3 +653,5 @@ Thirukkural 5933 - Porumai - Periya Sakthi! - Thirukkural
 Pazhamozhi 5934 - Porumai - Perumai Tharum!
 Health 5935 - Health Tip: Fruits daily saapdunga!
 Aira AI: Bored ah? Joke sollattuma?
+Emotion Q 5937 - excited?
+Aira: Excited ah! Sollu!
