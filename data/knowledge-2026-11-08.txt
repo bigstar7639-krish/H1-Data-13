@@ -136,3 +136,6 @@ A: Drop-slide - Science & Nature
 Knowledge Quiz
 Q: What is the most preferred image format used for logos in the Wikimedia database?
 A: .svg - Science: Computers
+Knowledge Quiz
+Q: In what Half-Life expansion can you find Gordon's picture in an "Employee of the Month" picture frame?
+A: Half-Life: Opposing Force - Entertainment: Video Games
