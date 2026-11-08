@@ -952,3 +952,4 @@ Aira AI: Kovam ah? Deep breath edu!
 Game 6114 - Quiz: Python eppo uruvaachu? Answer: 1991!
 Story 6115
 Oru chinna sea la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Game 6116 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
