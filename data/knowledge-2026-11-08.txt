@@ -314,3 +314,6 @@ A: Dibble - Entertainment: Television
 Knowledge Quiz
 Q: In Minecraft, which of these ingredients is needed to brew a Potion of Water Breathing?
 A: Pufferfish - Entertainment: Video Games
+Knowledge Quiz
+Q: Which one of these was not a beach landing site in the Invasion of Normandy?
+A: Silver - History
