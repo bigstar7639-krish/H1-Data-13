@@ -49,3 +49,6 @@ A: India - Geography
 Knowledge Quiz
 Q: On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?
 A: Exclamation Mark - Science: Computers
+Knowledge Quiz
+Q: On which aircraft carrier did the Doolitte Raid launch from on April 18, 1942 during World War II?
+A: USS Hornet - History
