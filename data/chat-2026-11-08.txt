@@ -97,3 +97,4 @@ World Story 5612
 Oru tokyo la oru doctor irunthan! Daily coding pannan pannan! Oru naal treasure kedaichuchu! Life maariduchu!
 Game 5613 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
 Reading 5614 - Thirukkural - Valluvar!
+Talk 5615 - Destiny pathi pesalama? Sollu!
