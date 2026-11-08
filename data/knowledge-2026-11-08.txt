@@ -379,3 +379,6 @@ A: Ratchet - Entertainment: Video Games
 Knowledge Quiz
 Q: In the "S.T.A.L.K.E.R." series, which of these items can't be used to lower the player's accumulated radiation?
 A: Radioprotectant - Entertainment: Video Games
+Knowledge Quiz
+Q: Which of the following countries is within the Eurozone but outside of the Schengen Area?
+A: Cyprus - Geography
