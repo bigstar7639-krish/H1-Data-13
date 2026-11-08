@@ -8,3 +8,4 @@ Health 5820 - Health Tip: Daily 30 min walk ponga!
 Health 5839 - Health Tip: Fruits daily saapdunga!
 Health 5868 - Yoga Tip: Daily 5 min deep breath edu!
 Health 5876 - Health Tip: Daily 8 glass water kudinga!
+Health 5885 - Health Tip: 7 mani neram thoongunga!
