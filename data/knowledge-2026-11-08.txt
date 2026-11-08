@@ -646,3 +646,6 @@ A: 6 - Entertainment: Video Games
 Knowledge Quiz
 Q: What were the first two blocks in "Minecraft"?
 A: Grass and Cobblestone - Entertainment: Video Games
+Knowledge Quiz
+Q: Which African American is in part responsible for integrating  Major League baseball?
+A: Jackie Robinson - Sports
