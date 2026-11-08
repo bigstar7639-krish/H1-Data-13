@@ -696,3 +696,4 @@ Emotion Q 5955 - excited?
 Aira: Excited ah! Sollu!
 Smart Q 5956 - Bored la eppadi jeyikkarathu?
 Reading 5957 - Harry Potter!
+Thirukkural 5958 - Kattrathu - Kai Mann Alavu! - Thirukkural
