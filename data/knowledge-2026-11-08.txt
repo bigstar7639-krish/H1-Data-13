@@ -664,3 +664,6 @@ A: Fluffy - Entertainment: Video Games
 Knowledge Quiz
 Q: In "The Binding of Isaac", what is the name of the final boss that you fight in The Void?
 A: Delirium - Entertainment: Video Games
+Knowledge Quiz
+Q: At the end of the 2001 film "Rat Race", whose concert do the contestants crash?
+A: Smash Mouth - Entertainment: Film
