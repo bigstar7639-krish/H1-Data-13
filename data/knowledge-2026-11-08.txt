@@ -311,3 +311,6 @@ A: Mike Harrington - Entertainment: Video Games
 Knowledge Quiz
 Q: What was the name of the police officer in the cartoon "Top Cat"?
 A: Dibble - Entertainment: Television
+Knowledge Quiz
+Q: In Minecraft, which of these ingredients is needed to brew a Potion of Water Breathing?
+A: Pufferfish - Entertainment: Video Games
