@@ -915,3 +915,4 @@ Fact 259 - Octopus ku 3 heart!
 Q 6095 - Unakku Tokyo pathi enna theriyum?
 Coding Q 6096 - App eppadi pannurathu?
 Aira: App - Idea - Design - Code!
+Talk 6097 - Magic pathi pesalama? Sollu!
