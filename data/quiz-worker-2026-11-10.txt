@@ -408,3 +408,8 @@ Q+A Katha - Economics 🧠
 Question: What is centralism?
 
 Answer:  Concentration of power and authority in a central organization. - Politics. Itha kelvi Economics pathi - Answer  Concentration of power and authority in a central organization.. Oru kaalathula oru oor la Economics nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Economics oda arumaiya purinjikittan, avan Economics pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Economics ah purinjikittanga, antha oor ye Economics nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Economics ah purinjikita life ye azhagahum.
+Q+A Katha - Philosophy 🧠
+
+Question: In the programming language "Python", which of these statements would display the string "Hello World" correctly?
+
+Answer: print("Hello World") - Science: Computers. Itha kelvi Philosophy pathi - Answer print("Hello World"). Philosophy pathi kelvi patta oru ponnu, ava daily Philosophy pathi yosichittu iruntha, oru naal ava oru puthu book padichu Philosophy oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Philosophy ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Philosophy la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
