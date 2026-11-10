@@ -413,3 +413,13 @@ Q+A Katha - Philosophy 🧠
 Question: In the programming language "Python", which of these statements would display the string "Hello World" correctly?
 
 Answer: print("Hello World") - Science: Computers. Itha kelvi Philosophy pathi - Answer print("Hello World"). Philosophy pathi kelvi patta oru ponnu, ava daily Philosophy pathi yosichittu iruntha, oru naal ava oru puthu book padichu Philosophy oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Philosophy ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Philosophy la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Politics 🧠
+
+Question: Which board game was first released on February 6th, 1935?
+
+Answer: Monopoly - Entertainment: Board Games. Itha kelvi Politics pathi - Answer Monopoly. Oru kaalathula oru oor la Politics nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Politics oda arumaiya purinjikittan, avan Politics pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Politics ah purinjikittanga, antha oor ye Politics nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Politics ah purinjikita life ye azhagahum.
+Q+A Katha - Law 🧠
+
+Question: This weapon in Counter-Strike: Global Offensive does not exist in real life.
+
+Answer: M4A4 - Entertainment: Video Games. Itha kelvi Law pathi - Answer M4A4. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Law pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Law la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Law oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
